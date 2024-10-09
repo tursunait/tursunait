@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 👋
 
 Welcome to my GitHub profile! I’m Tursunai Turumbekova — data enthusiast, problem-solver, and lover of analytics! 💻 
 
