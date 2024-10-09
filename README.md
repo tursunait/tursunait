@@ -1,7 +1,5 @@
 ## Hi there! 👋 I’m Tursunai Turumbekova
 
-Welcome to my GitHub profile! I’m a data enthusiast, problem-solver, and lover of analytics! 💻 
-
 - 📫 Reach out to me via email tursunai.turumbekova@duke.edu OR [LinkedIn](https://www.linkedin.com/in/tursunait) !
 - 🚀 Toolbox: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Google Cloud BigQuery, R, C++, Tableau
   
